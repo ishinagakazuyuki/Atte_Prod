@@ -1,0 +1,84 @@
+.header__inner {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+.header__logo {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.header__right {
+    display: flex;
+}
+
+.navigation {
+    padding-top: 12px;
+}
+
+.menu__item {
+    display: inline-block;
+    margin-left: 5vw;
+    font-size: 22px;
+}
+
+.menu__itemlink {
+    text-decoration: none;
+    color: black;
+}
+
+.menu__item-button {
+    border: none;
+    background-color: white;
+    font-size: 22px;
+}
+
+.main {
+    background-color: WhiteSmoke;
+    height: 800px;
+    padding-top: 30px;
+}
+
+.copy-right {
+    text-align: center;
+}
+
+.login_title {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 45px;
+}
+
+.login__content {
+    text-align: center;
+}
+
+.login-form__item {
+    padding-bottom: 30px;
+}
+
+.login-form__input {
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+.login-form__button-submit {
+    color: white;
+    background-color: blue;
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: none;
+}
+
+.login-guidance {
+    color: Gray;
+}
+
+.login-guidance__link {
+    text-decoration: none;
+}

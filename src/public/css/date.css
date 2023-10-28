@@ -1,0 +1,54 @@
+.date-date {
+    text-align: center;
+    font-size: 30px;
+}
+
+.date-table {
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+    text-align: center;
+    width: 92%;
+}
+
+.date-table__inner {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.date-table__row {
+    border-top: 1px solid black;
+}
+
+.date-table__header {
+    padding: 25px;
+    width: 100%;
+    text-align: left;
+    display: flex;
+}
+
+.date-table__header-item {
+    width: 25%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.date-table-form {
+    padding: 25px;
+    width: 100%;
+    display: flex;
+}
+
+.date-table-form__item {
+    width: 25%;
+}
+
+
+.date-table-form__item-input {
+    width: 100%;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    background-color: WhiteSmoke;
+}
+

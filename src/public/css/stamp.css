@@ -1,0 +1,27 @@
+.stamp__main {
+    text-align: center;
+}
+
+.stamp__form {
+    display: inline-flex;
+    width: 85%;
+    margin-bottom: 3vh;
+}
+
+.stamp-form__left {
+    width: 49%;
+}
+
+.stamp-form__right {
+    width: 49%;
+}
+
+.stamp-form__button-submit {
+    width: 95%;
+    height: 25vh;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+    background-color: white;
+}

@@ -1,0 +1,55 @@
+.menber-title {
+    text-align: center;
+    font-size: 30px;
+}
+
+.menber-table {
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+    text-align: center;
+    width: 92%;
+}
+
+.menber-table__inner {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.menber-table__row {
+    border-top: 1px solid black;
+}
+
+.menber-table__header {
+    padding: 25px;
+    width: 100%;
+    text-align: left;
+    display: flex;
+}
+
+.menber-table__header-item {
+    width: 40%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.menber-table-form {
+    padding: 25px;
+    width: 100%;
+    display: flex;
+}
+
+.menber-table-form__item {
+    width: 40%;
+}
+
+
+.menber-table-form__item-input {
+    width: 100%;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    background-color: WhiteSmoke;
+    text-align: left;
+}
+
