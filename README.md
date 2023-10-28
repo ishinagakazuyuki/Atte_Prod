@@ -28,7 +28,7 @@
 
 ## テーブル設計
 
-![contact_table_setting drawio](https://github.com/ishinagakazuyuki/20230816_ishinagakazuyuki_contact-form/assets/135584828/55b03995-a5fb-429d-9ce3-5315f057069c)
+![tables drawio](https://github.com/ishinagakazuyuki/Atte_Develop/assets/135584828/4a4f9ab6-7301-4849-bfb1-e4e4d0da6ab1)
 
 ## ER 図
 
