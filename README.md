@@ -2,8 +2,7 @@
 
 - ある企業の勤怠管理システム。
 
-![toppage](https://github.com/ishinagakazuyuki/20230816_ishinagakazuyuki_contact-form/assets/135584828/084e9784-f0fe-4100-8a27-5f5cadbf6c01)
-![toppage_2](https://github.com/ishinagakazuyuki/20230816_ishinagakazuyuki_contact-form/assets/135584828/45cdb2c1-d965-4b8a-bc21-173bfd062b91)
+![toppage](https://github.com/ishinagakazuyuki/Atte_Develop/assets/135584828/42c76a33-f1b4-4675-b1d0-43b0490c6faa)
 
 ## 作成した目的
 
