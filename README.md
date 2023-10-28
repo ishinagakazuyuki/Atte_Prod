@@ -32,5 +32,5 @@
 
 ## ER 図
 
-![users drawio](https://github.com/ishinagakazuyuki/Atte_Develop/assets/135584828/af1445fe-b2a6-445a-b40a-abcc6a6ab22e)
+![ER drawio](https://github.com/ishinagakazuyuki/Atte_Develop/assets/135584828/52dc069c-14d7-4545-b93d-33d96505a61d)
 
